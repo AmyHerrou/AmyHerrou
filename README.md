@@ -12,6 +12,6 @@ Analyzed total 5155 records combined from 2 different datasets published through
 **Visualization:** *Tableau*
 
 ## LET'S CONNECT 🤝✨
-<a href="www.linkedin.com/in/amy-herrou"><img align="left" src="https://github.com/AmyHerrou/images/blob/main/linkedin.png" alt="Amy Herrou | LinkedIn" width="41px"/></a>
+<a href="https://www.linkedin.com/in/amy-herrou/"><img align="left" src="https://github.com/AmyHerrou/images/blob/main/linkedin.png" alt="Amy Herrou | LinkedIn" width="41px"/></a>
 <a href="https://public.tableau.com/app/profile/amy.herrou"><img align="left" src="https://github.com/AmyHerrou/images/blob/main/icon-tableau.png" alt="Amy Herrou | Tableau" width="51px"/></a>
 </br>
