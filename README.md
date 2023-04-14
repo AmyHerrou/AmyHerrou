@@ -15,7 +15,7 @@ Analyzed total 5155 records combined from 2 different datasets published through
 [SPOTIFY TREND ANALYSIS](https://github.com/AmyHerrou/Spotify-Trend-Analysis/blob/main/Spotify%20data%20.%20Favorite.ipynb) | Python
 </br>
 **Process:**
-Scrap more than 100 million of songs in Spotify to identify current Trending Artists, Songs, Albums
+Scrap more than 100 million of songs on Spotify to identify current Trending Artists, Songs, Albums
 </br>
 **Web Scrapping, Premilinay Analysis, Visualization:**
 Python
